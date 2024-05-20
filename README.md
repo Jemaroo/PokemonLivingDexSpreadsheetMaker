@@ -1,5 +1,5 @@
 # PokemonLivingDexSpreadsheetMaker
-A tool to modify the amount of various slots an animation file has
+An expandable script to output a list of all pokemon and their shiny/regional/gender/etc forms.
 
 UPDATED v1.1 (3/6/24): Fixed a bug where the animation data location wouldn't read correctly.
 
